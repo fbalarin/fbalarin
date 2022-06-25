@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/d99cc830-1426-457f-af88-3166fe7ae604.svg)](https://wakatime.com/@d99cc830-1426-457f-af88-3166fe7ae604)
+[![twitter](https://img.shields.io/twitter/follow/fbalarin?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/fbalarin)
+[![github](https://img.shields.io/github/followers/fbalarin?logo=github&style=plastic)](https://github.com/fbalarin?tab=followers)
+
+- 🔭 I’m currently working on [https://febinfo.com.br](https://febinfo.com.br)
+- 💬 Ask me about PHP, C#, TypeScript, startups, and bootstrapping
+- 📫 How to reach me: [@fbalarin](https://twitter.com/fbalarin) on Twitter
+
+
 <!--
 **fbalarin/fbalarin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
